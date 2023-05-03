@@ -10,7 +10,7 @@
 - Alphabetical + Special character passwords
 - Alnumeric + Special character passwords
 
-### Additional features of this calculator include:
+### Additional features of this generator include:
 - You can specify the length of the password you desire
 
 ### Project specifications:
