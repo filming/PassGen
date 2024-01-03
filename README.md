@@ -1,4 +1,4 @@
-# Password Generator
+# PassGen
 
 **A simple piece of C++ code in order to create passwords with different attributes.**
 
